@@ -23,6 +23,7 @@ const (
 	EventTimeoutWait         = "TimeoutWait"
 	EventTx                  = "Tx"
 	EventUnlock              = "Unlock"
+	EventValidBlock          = "ValidBlock"
 	EventValidatorSetUpdates = "ValidatorSetUpdates"
 	EventVote                = "Vote"
 )
